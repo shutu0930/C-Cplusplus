@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "验证哥德巴赫猜想（改进）", "验证哥德巴赫猜想（改进）\验证哥德巴赫猜想（改进）.vcproj", "{753D1F53-6D1A-4540-AF90-704E3AE82872}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{753D1F53-6D1A-4540-AF90-704E3AE82872}.Debug|Win32.ActiveCfg = Debug|Win32
+		{753D1F53-6D1A-4540-AF90-704E3AE82872}.Debug|Win32.Build.0 = Debug|Win32
+		{753D1F53-6D1A-4540-AF90-704E3AE82872}.Release|Win32.ActiveCfg = Release|Win32
+		{753D1F53-6D1A-4540-AF90-704E3AE82872}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "查字典", "查字典\查字典.vcproj", "{A49F251F-47D9-4D93-B2B7-F8D5BA43AA6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A49F251F-47D9-4D93-B2B7-F8D5BA43AA6D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A49F251F-47D9-4D93-B2B7-F8D5BA43AA6D}.Debug|Win32.Build.0 = Debug|Win32
+		{A49F251F-47D9-4D93-B2B7-F8D5BA43AA6D}.Release|Win32.ActiveCfg = Release|Win32
+		{A49F251F-47D9-4D93-B2B7-F8D5BA43AA6D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

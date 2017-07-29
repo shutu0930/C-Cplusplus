@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "产生30个（1-50）的随机数", "产生30个（1-50）的随机数\产生30个（1-50）的随机数.vcproj", "{70121573-0BF8-4814-A9CC-3A1DF799964B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70121573-0BF8-4814-A9CC-3A1DF799964B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{70121573-0BF8-4814-A9CC-3A1DF799964B}.Debug|Win32.Build.0 = Debug|Win32
+		{70121573-0BF8-4814-A9CC-3A1DF799964B}.Release|Win32.ActiveCfg = Release|Win32
+		{70121573-0BF8-4814-A9CC-3A1DF799964B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

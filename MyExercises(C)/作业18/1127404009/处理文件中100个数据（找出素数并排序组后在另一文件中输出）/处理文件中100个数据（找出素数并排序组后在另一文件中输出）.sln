@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "处理文件中100个数据（找出素数并排序组后在另一文件中输出）", "处理文件中100个数据（找出素数并排序组后在另一文件中输出）\处理文件中100个数据（找出素数并排序组后在另一文件中输出）.vcproj", "{EB50AC2B-819B-473E-A1DE-22B26D5C8362}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB50AC2B-819B-473E-A1DE-22B26D5C8362}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EB50AC2B-819B-473E-A1DE-22B26D5C8362}.Debug|Win32.Build.0 = Debug|Win32
+		{EB50AC2B-819B-473E-A1DE-22B26D5C8362}.Release|Win32.ActiveCfg = Release|Win32
+		{EB50AC2B-819B-473E-A1DE-22B26D5C8362}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

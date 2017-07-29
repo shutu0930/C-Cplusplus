@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "求最大公约数和最小公倍数", "求最大公约数和最小公倍数\求最大公约数和最小公倍数.vcproj", "{571C4F42-DE71-413C-AF7B-928707360AEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{571C4F42-DE71-413C-AF7B-928707360AEE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{571C4F42-DE71-413C-AF7B-928707360AEE}.Debug|Win32.Build.0 = Debug|Win32
+		{571C4F42-DE71-413C-AF7B-928707360AEE}.Release|Win32.ActiveCfg = Release|Win32
+		{571C4F42-DE71-413C-AF7B-928707360AEE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "计算长度的函数", "计算长度的函数\计算长度的函数.vcproj", "{4A66545E-E1DA-45FF-B08A-BDBF75F2805F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A66545E-E1DA-45FF-B08A-BDBF75F2805F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4A66545E-E1DA-45FF-B08A-BDBF75F2805F}.Debug|Win32.Build.0 = Debug|Win32
+		{4A66545E-E1DA-45FF-B08A-BDBF75F2805F}.Release|Win32.ActiveCfg = Release|Win32
+		{4A66545E-E1DA-45FF-B08A-BDBF75F2805F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

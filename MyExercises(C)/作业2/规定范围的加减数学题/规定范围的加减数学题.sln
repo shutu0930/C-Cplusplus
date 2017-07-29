@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "规定范围的加减数学题", "规定范围的加减数学题\规定范围的加减数学题.vcproj", "{CF4B7A23-F356-410A-B042-3328DA496EF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF4B7A23-F356-410A-B042-3328DA496EF9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CF4B7A23-F356-410A-B042-3328DA496EF9}.Debug|Win32.Build.0 = Debug|Win32
+		{CF4B7A23-F356-410A-B042-3328DA496EF9}.Release|Win32.ActiveCfg = Release|Win32
+		{CF4B7A23-F356-410A-B042-3328DA496EF9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

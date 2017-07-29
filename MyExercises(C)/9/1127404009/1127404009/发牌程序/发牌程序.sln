@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "发牌程序", "发牌程序\发牌程序.vcproj", "{C1B2D44C-E0F7-412C-B5F5-D81435117DCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1B2D44C-E0F7-412C-B5F5-D81435117DCB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C1B2D44C-E0F7-412C-B5F5-D81435117DCB}.Debug|Win32.Build.0 = Debug|Win32
+		{C1B2D44C-E0F7-412C-B5F5-D81435117DCB}.Release|Win32.ActiveCfg = Release|Win32
+		{C1B2D44C-E0F7-412C-B5F5-D81435117DCB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

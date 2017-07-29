@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "打印花纹（左）", "打印花纹（左）\打印花纹（左）.vcproj", "{3CA72C21-8B6B-42A7-9B37-1F32B8EAB6BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CA72C21-8B6B-42A7-9B37-1F32B8EAB6BC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3CA72C21-8B6B-42A7-9B37-1F32B8EAB6BC}.Debug|Win32.Build.0 = Debug|Win32
+		{3CA72C21-8B6B-42A7-9B37-1F32B8EAB6BC}.Release|Win32.ActiveCfg = Release|Win32
+		{3CA72C21-8B6B-42A7-9B37-1F32B8EAB6BC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
